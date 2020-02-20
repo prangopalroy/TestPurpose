@@ -7,7 +7,8 @@ agtpipeline{
   applicationName='test-app'
   applicationType='JAVA'
   repo='http://xyz.git'
-  username='abc'
+  awsRegion='us-east-1'
+  username='prangopalroy'
   artificatoryRepoName='test-app'
   category='Bronze'
 }
